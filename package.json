@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ibrahim777764/dyfirst/issues"
   },
-  "homepage": "https://github.com/ibrahim777764/dyfirst#readme"
+  "homepage": "https://github.com/ibrahim777764/dyfirst#readme",
+  "devDependencies": {
+    "hint": "^6.1.9"
+  }
 }
